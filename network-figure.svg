@@ -1,0 +1,1576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="658.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-320.000000 -372.000000 658.000000 782.000000" height="782.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.74281317"
+              d="M -265.965759,39.525162 C -259.137512,49.090775 -263.243622,73.681534 -272.809235,80.509758"
+              class="id_meperidine id_hydrocodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.764858"
+              d="M -265.965759,39.525162 C -273.409180,45.471203 -293.493439,43.225101 -299.439484,35.781654"
+              class="id_meperidine id_oxycodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7586474"
+              d="M 127.034889,181.112900 C 118.366196,173.526062 116.743401,149.142792 124.330231,140.474091"
+              class="id_paroxetine id_citalopram" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8192534"
+              d="M 127.034889,181.112900 C 138.038544,180.228577 155.870499,195.407578 156.754822,206.411224"
+              class="id_paroxetine id_sertraline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.72603315"
+              d="M 127.034889,181.112900 C 115.858673,184.630035 93.818619,173.141434 90.301476,161.965210"
+              class="id_paroxetine id_venlafaxine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8043499"
+              d="M 127.034889,181.112900 C 135.153854,188.669708 135.997086,212.183365 128.440277,220.302338"
+              class="id_paroxetine id_fluoxetine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.82868886"
+              d="M 111.304611,-277.336121 C 122.590324,-267.690063 125.049759,-236.292358 115.403679,-225.006653"
+              class="id_lsd id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.9256518"
+              d="M 111.304611,-277.336121 C 112.108139,-266.291199 96.746056,-248.518524 85.701134,-247.714996"
+              class="id_lsd id_diazepam" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.7796855"
+              d="M 111.304611,-277.336121 C 132.460571,-277.743805 164.806061,-246.621429 165.213760,-225.465469"
+              class="id_lsd id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.7368872"
+              d="M 111.304611,-277.336121 C 86.359467,-273.937347 43.843578,-306.256866 40.444798,-331.202026"
+              class="id_lsd id_lsa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.92022127"
+              d="M -4.665455,141.002121 C -4.033597,132.808319 9.204884,121.465424 17.398678,122.097282"
+              class="id_naloxone id_buprenorphine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7201055"
+              d="M -4.665455,141.002121 C -13.047993,142.615005 -28.041132,132.460541 -29.654020,124.077995"
+              class="id_naloxone id_heroin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.99985504"
+              d="M -285.037811,-193.878647 C -280.536743,-201.996231 -261.608765,-207.420975 -253.491165,-202.919907"
+              class="id_theophylline id_theobromine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8730012"
+              d="M -285.037811,-193.878647 C -276.391724,-190.231033 -268.894012,-171.790451 -272.541626,-163.144363"
+              class="id_theophylline id_caffeine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7475582"
+              d="M -285.037811,-193.878647 C -270.106110,-198.693817 -240.485748,-183.519012 -235.670578,-168.587296"
+              class="id_theophylline id_guarana" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.819091"
+              d="M 40.444798,-331.202026 C 21.952835,-322.267334 -19.187138,-336.603271 -28.121822,-355.095215"
+              class="id_lsa id_atropine" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.8173954"
+              d="M 40.444798,-331.202026 C 33.141312,-320.707642 6.444512,-315.921326 -4.049867,-323.224792"
+              class="id_lsa id_hyoscine" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.8169552"
+              d="M 40.444798,-331.202026 C 27.758232,-330.585815 7.804060,-348.691315 7.187845,-361.377899"
+              class="id_lsa id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.72632015"
+              d="M -197.101990,-145.843170 C -209.364532,-142.678284 -232.505692,-156.324753 -235.670578,-168.587296"
+              class="id_ginseng id_guarana" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7430578"
+              d="M -197.101990,-145.843170 C -187.126160,-148.256805 -168.541931,-136.913513 -166.128296,-126.937683"
+              class="id_ginseng id_ephedrine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7739972"
+              d="M 156.754822,206.411224 C 153.870148,214.852356 136.881409,223.187012 128.440277,220.302338"
+              class="id_sertraline id_fluoxetine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.93491"
+              d="M -166.128296,-126.937683 C -157.793762,-128.571472 -142.841278,-118.520348 -141.207489,-110.185814"
+              class="id_ephedrine id_pseudoephedrine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7273259"
+              d="M -54.395676,-120.655090 C -48.479534,-125.244011 -32.721947,-123.253181 -28.133030,-117.337036"
+              class="id_cannabinoid id_cannabis" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.76854366"
+              d="M 204.149673,-168.331543 C 197.057724,-172.637207 192.878281,-189.733597 197.183945,-196.825546"
+              class="id_bk-mdea id_bk-mdma" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.77806944"
+              d="M 6.375103,-66.384987 C 7.070935,-73.772308 19.195662,-83.809540 26.582983,-83.113708"
+              class="id_dxm id_chlorpheniramine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7619413"
+              d="M -57.077759,-282.579285 C -61.810165,-291.031372 -56.230652,-310.808105 -47.778561,-315.540527"
+              class="id_manaca id_aconitum" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.761368"
+              d="M -299.439484,35.781654 C -292.827087,46.496506 -298.980743,72.487373 -309.695618,79.099777"
+              class="id_oxycodone id_hydromorphone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.72359866"
+              d="M -299.439484,35.781654 C -298.714569,19.775791 -273.618378,-3.145607 -257.612518,-2.420681"
+              class="id_oxycodone id_opioid" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.85804784"
+              d="M -299.439484,35.781654 C -285.167816,39.401226 -269.189667,66.238083 -272.809235,80.509758"
+              class="id_oxycodone id_hydrocodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.82786214"
+              d="M -299.439484,35.781654 C -282.651184,29.456547 -247.981079,45.151321 -241.655975,61.939617"
+              class="id_oxycodone id_acetaminophen" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.733396"
+              d="M -119.835808,95.912651 C -112.703751,91.242432 -95.000343,94.935204 -90.330124,102.067261"
+              class="id_modafinil id_armodafinil" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8420504"
+              d="M -119.835808,95.912651 C -125.699944,89.968178 -125.579430,72.255264 -119.634956,66.391129"
+              class="id_modafinil id_adrafinil" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7508788"
+              d="M -309.695618,79.099777 C -302.036346,72.004501 -279.904541,72.850487 -272.809235,80.509758"
+              class="id_hydromorphone id_hydrocodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.78342354"
+              d="M -80.641350,353.595154 C -72.752121,364.093506 -76.665825,391.674896 -87.164185,399.564117"
+              class="id_harmaline id_mimosa" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.73820066"
+              d="M -80.641350,353.595154 C -95.357498,352.768433 -116.191620,329.454102 -115.364891,314.737976"
+              class="id_harmaline id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.8843663"
+              d="M -80.641350,353.595154 C -75.282158,343.212280 -51.669010,335.676697 -41.286110,341.035889"
+              class="id_harmaline id_maoi" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.83020395"
+              d="M -80.641350,353.595154 C -84.384941,364.367004 -106.158112,374.909393 -116.929962,371.165802"
+              class="id_harmaline id_ayahuasca" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7950876"
+              d="M -80.641350,353.595154 C -67.337822,354.142426 -48.203445,374.918640 -48.750713,388.222137"
+              class="id_harmaline id_chaliponga" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8176364"
+              d="M -48.750713,388.222137 C -54.165012,398.173248 -77.213097,404.978424 -87.164185,399.564117"
+              class="id_chaliponga id_mimosa" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.75088876"
+              d="M -48.750713,388.222137 C -56.695045,377.291962 -52.216278,348.980225 -41.286110,341.035889"
+              class="id_chaliponga id_maoi" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8065255"
+              d="M -48.750713,388.222137 C -65.797829,398.446716 -106.705383,388.212891 -116.929962,371.165802"
+              class="id_chaliponga id_ayahuasca" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.80421615"
+              d="M -107.947433,268.280792 C -112.764015,275.392792 -130.656921,278.835938 -137.768921,274.019348"
+              class="id_anadenanthera id_bufotenin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7593337"
+              d="M -107.947433,268.280792 C -100.139488,279.055725 -104.589966,306.930023 -115.364891,314.737976"
+              class="id_anadenanthera id_dmt" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.74878013"
+              d="M 119.112198,51.515038 C 119.635506,43.570099 132.337875,32.437660 140.282822,32.960968"
+              class="id_calamus id_thujone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.73142487"
+              d="M 67.841072,-12.899883 C 62.898949,-18.500252 63.886307,-34.313992 69.486679,-39.256119"
+              class="id_niacin id_GABA" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.74689656"
+              d="M 85.701134,-247.714996 C 96.183311,-249.113831 114.004845,-235.488831 115.403679,-225.006653"
+              class="id_diazepam id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.7686565"
+              d="M 230.134262,-37.859058 C 227.388199,-46.395618 236.073959,-63.319550 244.610519,-66.065605"
+              class="id_4-mmc id_mdpv" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.7473038"
+              d="M 230.134262,-37.859058 C 236.118866,-44.591434 255.194351,-45.713074 261.926727,-39.728462"
+              class="id_4-mmc id_pentylone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7833634"
+              d="M -5.853637,53.114475 C -9.560877,59.527939 -24.741932,63.587280 -31.155397,59.880039"
+              class="id_diphenhydramine id_dimenhydrinate" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.72278744"
+              d="M 327.769806,97.654350 C 323.350616,112.673744 294.192749,128.574051 279.173340,124.154854"
+              class="id_benzodiazepine id_clonazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7417687"
+              d="M 327.769806,97.654350 C 331.836304,106.320511 324.936768,125.419472 316.270599,129.485947"
+              class="id_benzodiazepine id_lorazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7477864"
+              d="M 327.769806,97.654350 C 318.203918,101.725571 297.748230,93.483543 293.677032,83.917648"
+              class="id_benzodiazepine id_temazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8585003"
+              d="M 14.466151,0.372595 C 7.308573,1.935985 -5.772879,-6.455300 -7.336268,-13.612879"
+              class="id_meta-chlorophenylpiperazine id_piperazine"
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.8742"
+              d="M -272.541626,-163.144363 C -276.686646,-174.909561 -265.256378,-198.774887 -253.491165,-202.919907"
+              class="id_caffeine id_theobromine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.76840675"
+              d="M -272.541626,-163.144363 C -266.256012,-171.607162 -244.133377,-174.872910 -235.670578,-168.587296"
+              class="id_caffeine id_guarana" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.78217244"
+              d="M -120.726791,-30.345160 C -116.625443,-24.163172 -119.746391,-8.738160 -125.928383,-4.636808"
+              class="id_pramipexole id_nefazodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.999573"
+              d="M -4.049867,-323.224792 C -15.238342,-324.784485 -29.681515,-343.906738 -28.121822,-355.095215"
+              class="id_hyoscine id_atropine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.99991137"
+              d="M -4.049867,-323.224792 C -9.432945,-333.102936 -2.690319,-355.994812 7.187845,-361.377899"
+              class="id_hyoscine id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.74711406"
+              d="M -4.049867,-323.224792 C -11.258753,-312.942200 -37.495968,-308.331665 -47.778561,-315.540527"
+              class="id_hyoscine id_aconitum" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.74381757"
+              d="M 245.690140,122.359215 C 252.745911,116.021706 272.835815,117.099083 279.173340,124.154854"
+              class="id_alprazolam id_clonazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.73146987"
+              d="M 91.045372,-200.179459 C 90.951591,-210.016556 105.566582,-224.912872 115.403679,-225.006653"
+              class="id_salvia id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.7454359"
+              d="M -137.768921,274.019348 C -125.144394,277.682281 -111.701965,302.113434 -115.364891,314.737976"
+              class="id_bufotenin id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.7582242"
+              d="M 52.587082,45.454056 C 58.491577,49.984581 60.552536,65.637108 56.022011,71.541603"
+              class="id_atenolol id_hydroxyzine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8931413"
+              d="M -241.655975,61.939617 C -244.172592,71.884300 -262.864563,83.026382 -272.809235,80.509758"
+              class="id_acetaminophen id_hydrocodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.99954534"
+              d="M -28.121822,-355.095215 C -22.316425,-363.413666 -1.130626,-367.183289 7.187845,-361.377899"
+              class="id_atropine id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7482403"
+              d="M -28.121822,-355.095215 C -24.142231,-343.252930 -35.936275,-319.520142 -47.778561,-315.540527"
+              class="id_atropine id_aconitum" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8151026"
+              d="M -41.286110,341.035889 C -50.388897,362.190643 -95.775208,380.268616 -116.929962,371.165802"
+              class="id_maoi id_ayahuasca" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.75166243"
+              d="M -41.286110,341.035889 C -38.756077,361.917175 -66.282928,397.034088 -87.164185,399.564117"
+              class="id_maoi id_mimosa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.75497615"
+              d="M -41.286110,341.035889 C -61.361450,350.592072 -105.808716,334.813324 -115.364891,314.737976"
+              class="id_maoi id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.7299913"
+              d="M -41.286110,341.035889 C -49.120052,322.672516 -33.325897,283.376526 -14.962514,275.542572"
+              class="id_maoi id_moclobemide" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7664344"
+              d="M 129.716354,-95.510918 C 126.354370,-103.088966 132.678482,-119.499008 140.256531,-122.860992"
+              class="id_methylphenidate id_dextroamphetamine"
+              stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.75848246"
+              d="M 111.802124,-150.147034 C 113.366684,-159.221039 129.324539,-170.485214 138.398544,-168.920639"
+              class="id_methamphetamine id_amphetamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.73160875"
+              d="M -73.025528,23.966589 C -74.780800,16.707895 -66.525665,3.186945 -59.266972,1.431673"
+              class="id_skullcap id_zacatechichi" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.72546357"
+              d="M 140.256531,-122.860992 C 130.673004,-131.701324 129.558212,-159.337112 138.398544,-168.920639"
+              class="id_dextroamphetamine id_amphetamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8131318"
+              d="M 279.173340,124.154854 C 287.659027,117.801620 309.917358,121.000275 316.270599,129.485947"
+              class="id_clonazepam id_lorazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7550696"
+              d="M 279.173340,124.154854 C 274.026611,113.206673 282.728851,89.064346 293.677032,83.917648"
+              class="id_clonazepam id_temazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7714962"
+              d="M 140.282822,32.960968 C 132.381699,29.925148 125.083763,13.519739 128.119583,5.618623"
+              class="id_thujone id_ethanol" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.8043519"
+              d="M 316.270599,129.485947 C 302.638245,124.890999 289.082092,97.550026 293.677032,83.917648"
+              class="id_lorazepam id_temazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.74585813"
+              d="M 261.926727,-39.728462 C 253.196075,-41.532650 242.806335,-57.334934 244.610519,-66.065605"
+              class="id_pentylone id_mdpv" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.78284293"
+              d="M -87.164185,399.564117 C -109.769562,388.239014 -126.689972,337.343353 -115.364891,314.737976"
+              class="id_mimosa id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.78103876"
+              d="M -87.164185,399.564117 C -98.797005,399.837616 -116.656471,382.798615 -116.929962,371.165802"
+              class="id_mimosa id_ayahuasca" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.77756447"
+              d="M -52.097317,-54.592899 C -59.027740,-51.940025 -73.402695,-58.356358 -76.055565,-65.286781"
+              class="id_aniracetam id_piracetam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7279334"
+              d="M 138.398544,-168.920639 C 122.582375,-175.538879 108.785454,-209.190475 115.403679,-225.006653"
+              class="id_amphetamine id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7614472"
+              d="M 138.398544,-168.920639 C 132.452621,-185.592636 148.541763,-219.519547 165.213760,-225.465469"
+              class="id_amphetamine id_mdma" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.74554855"
+              d="M -47.778561,-315.540527 C -45.952751,-335.701294 -12.972912,-363.203705 7.187845,-361.377899"
+              class="id_aconitum id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.75304765"
+              d="M 115.403679,-225.006653 C 125.273926,-235.060440 155.159973,-235.335724 165.213760,-225.465469"
+              class="id_sound id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.8005807"
+              d="M -116.929962,371.165802 C -127.902519,359.567230 -126.963470,325.710510 -115.364891,314.737976"
+              class="id_ayahuasca id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.7526143"
+              d="M 197.183945,-196.825546 C 185.061920,-196.159485 165.879822,-213.343445 165.213760,-225.465469"
+              class="id_bk-mdma id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="0.74646616"
+              d="M -244.465637,100.114685 C -254.055344,101.862419 -271.061493,90.099457 -272.809235,80.509758"
+              class="id_codeine id_hydrocodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7494634"
+              d="M -235.670578,-168.587296 C -246.101212,-171.889694 -256.793579,-192.489273 -253.491165,-202.919907"
+              class="id_guarana id_theobromine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="0.7687983"
+              d="M 266.565887,64.634773 C 275.844696,63.069118 292.111359,74.638847 293.677032,83.917648"
+              class="id_flunitrazepam id_temazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-265.96576"
+                class="id_meperidine" cy="39.52516" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="127.03489"
+                class="id_paroxetine" cy="181.1129" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="111.30461"
+                class="id_lsd" cy="-277.33612" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-4.6654553"
+                class="id_naloxone" cy="141.00212" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-285.0378"
+                class="id_theophylline" cy="-193.87865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="40.444798"
+                class="id_lsa" cy="-331.20203" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-197.10199"
+                class="id_ginseng" cy="-145.84317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="156.75482"
+                class="id_sertraline" cy="206.41122" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-166.1283"
+                class="id_ephedrine" cy="-126.93768" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-54.395676"
+                class="id_cannabinoid" cy="-120.65509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="204.14967"
+                class="id_bk-mdea" cy="-168.33154" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="6.375103"
+                class="id_dxm" cy="-66.38499" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-57.07776"
+                class="id_manaca" cy="-282.57928" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-299.43948"
+                class="id_oxycodone" cy="35.781654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-119.83581"
+                class="id_modafinil" cy="95.91265" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="26.582983"
+                class="id_chlorpheniramine" cy="-83.11371" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-309.69562"
+                class="id_hydromorphone" cy="79.09978" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-80.64135"
+                class="id_harmaline" cy="353.59515" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-48.750713"
+                class="id_chaliponga" cy="388.22214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-107.94743"
+                class="id_anadenanthera" cy="268.2808" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="119.1122"
+                class="id_calamus" cy="51.515038" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="67.84107"
+                class="id_niacin" cy="-12.899883" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="85.70113"
+                class="id_diazepam" cy="-247.715" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="230.13426"
+                class="id_4-mmc" cy="-37.85906" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-5.853637"
+                class="id_diphenhydramine" cy="53.114475" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="124.33023"
+                class="id_citalopram" cy="140.47409" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="327.7698"
+                class="id_benzodiazepine" cy="97.65435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="14.466151"
+                class="id_meta-chlorophenylpiperazine" cy="0.372595"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-272.54163"
+                class="id_caffeine" cy="-163.14436" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-120.72679"
+                class="id_pramipexole" cy="-30.34516" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-4.0498667"
+                class="id_hyoscine" cy="-323.2248" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="245.69014"
+                class="id_alprazolam" cy="122.359215" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="91.04537"
+                class="id_salvia" cy="-200.17946" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-137.76892"
+                class="id_bufotenin" cy="274.01935" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="52.587082"
+                class="id_atenolol" cy="45.454056" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-241.65598"
+                class="id_acetaminophen" cy="61.939617" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-28.121822"
+                class="id_atropine" cy="-355.0952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-28.13303"
+                class="id_cannabis" cy="-117.337036" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-41.28611"
+                class="id_maoi" cy="341.0359" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-14.962514"
+                class="id_moclobemide" cy="275.54257" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="129.71635"
+                class="id_methylphenidate" cy="-95.51092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-125.92838"
+                class="id_nefazodone" cy="-4.6368084" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="111.802124"
+                class="id_methamphetamine" cy="-150.14703" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-141.20749"
+                class="id_pseudoephedrine" cy="-110.185814" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-73.02553"
+                class="id_skullcap" cy="23.966589" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="140.25653"
+                class="id_dextroamphetamine" cy="-122.86099" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="128.44028"
+                class="id_fluoxetine" cy="220.30234" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="279.17334"
+                class="id_clonazepam" cy="124.154854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="140.28282"
+                class="id_thujone" cy="32.960968" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="316.2706"
+                class="id_lorazepam" cy="129.48595" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-90.330124"
+                class="id_armodafinil" cy="102.06726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="56.02201"
+                class="id_hydroxyzine" cy="71.5416" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="261.92673"
+                class="id_pentylone" cy="-39.728462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-119.63496"
+                class="id_adrafinil" cy="66.39113" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-87.164185"
+                class="id_mimosa" cy="399.56412" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-29.65402"
+                class="id_heroin" cy="124.077995" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="128.11958"
+                class="id_ethanol" cy="5.6186233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-31.155397"
+                class="id_dimenhydrinate" cy="59.88004" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="90.301476"
+                class="id_venlafaxine" cy="161.96521" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="17.398678"
+                class="id_buprenorphine" cy="122.09728" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-52.097317"
+                class="id_aniracetam" cy="-54.5929" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="138.39854"
+                class="id_amphetamine" cy="-168.92064" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-7.3362684"
+                class="id_piperazine" cy="-13.612879" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-47.77856"
+                class="id_aconitum" cy="-315.54053" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="115.40368"
+                class="id_sound" cy="-225.00665" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="7.187845"
+                class="id_hyoscyamine" cy="-361.3779" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-116.92996"
+                class="id_ayahuasca" cy="371.1658" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="197.18394"
+                class="id_bk-mdma" cy="-196.82555" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="165.21376"
+                class="id_mdma" cy="-225.46547" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-59.26697"
+                class="id_zacatechichi" cy="1.431673" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-244.46564"
+                class="id_codeine" cy="100.114685" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-235.67058"
+                class="id_guarana" cy="-168.5873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="266.5659"
+                class="id_flunitrazepam" cy="64.63477" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-76.055565"
+                class="id_piracetam" cy="-65.28678" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-272.80923"
+                class="id_hydrocodone" cy="80.50976" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-115.36489"
+                class="id_dmt" cy="314.73798" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-253.49117"
+                class="id_theobromine" cy="-202.9199" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="293.67703"
+                class="id_temazepam" cy="83.91765" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="244.61052"
+                class="id_mdpv" cy="-66.065605" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-257.61252"
+                class="id_opioid" cy="-2.4206812" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="69.48668"
+                class="id_GABA" cy="-39.25612" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="24" x="-265.96576" y="45.012466"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_meperidine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            meperidine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="127.03489" y="186.6002"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_paroxetine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            paroxetine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="111.30461" y="-272.9709"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lsd" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            lsd
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-4.6654553" y="145.36736"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_naloxone" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            naloxone
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-285.0378" y="-188.32103"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_theophylline" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            theophylline
+        </text>
+        <text stroke-linecap="round" font-size="24" x="40.444798" y="-326.8368"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lsa" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            lsa
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-197.10199"
+              y="-140.28555" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ginseng" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            ginseng
+        </text>
+        <text stroke-linecap="round" font-size="24" x="156.75482" y="210.77646"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sertraline" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            sertraline
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-166.1283" y="-121.45038"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ephedrine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            ephedrine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-54.395676"
+              y="-116.289856" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cannabinoid" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            cannabinoid
+        </text>
+        <text stroke-linecap="round" font-size="24" x="204.14967" y="-163.96631"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bk-mdea" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            bk-mdea
+        </text>
+        <text stroke-linecap="round" font-size="24" x="6.375103" y="-62.019753"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dxm" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            dxm
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-57.07776" y="-279.32733"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_manaca" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            manaca
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-299.43948" y="41.33927"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_oxycodone" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            oxycodone
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-119.83581" y="100.35113"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_modafinil" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            modafinil
+        </text>
+        <text stroke-linecap="round" font-size="24" x="26.582983" y="-77.6264"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_chlorpheniramine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            chlorpheniramine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-309.69562" y="84.657394"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hydromorphone" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            hydromorphone
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-80.64135" y="357.9604"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_harmaline" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            harmaline
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-48.750713" y="393.77975"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_chaliponga" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            chaliponga
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-107.94743" y="272.64603"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_anadenanthera" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            anadenanthera
+        </text>
+        <text stroke-linecap="round" font-size="24" x="119.1122" y="55.880272"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_calamus" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            calamus
+        </text>
+        <text stroke-linecap="round" font-size="24" x="67.84107" y="-8.534649"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_niacin" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            niacin
+        </text>
+        <text stroke-linecap="round" font-size="24" x="85.70113" y="-242.22769"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_diazepam" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            diazepam
+        </text>
+        <text stroke-linecap="round" font-size="24" x="230.13426" y="-33.493824"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_4-mmc" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            4-mmc
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-5.853637" y="58.672092"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_diphenhydramine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            diphenhydramine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="124.33023" y="145.9614"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_citalopram" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            citalopram
+        </text>
+        <text stroke-linecap="round" font-size="24" x="327.7698" y="103.141655"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_benzodiazepine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            benzodiazepine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="14.466151" y="5.930212"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_meta-chlorophenylpiperazine"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="3.0px">
+            meta-chlorophenylpiperazine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-272.54163"
+              y="-158.70589" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_caffeine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            caffeine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-120.72679"
+              y="-24.857855" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pramipexole" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            pramipexole
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-4.0498667"
+              y="-317.66718" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hyoscine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            hyoscine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="245.69014" y="127.84652"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_alprazolam" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            alprazolam
+        </text>
+        <text stroke-linecap="round" font-size="24" x="91.04537" y="-195.81422"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_salvia" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            salvia
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-137.76892" y="278.45782"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bufotenin" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            bufotenin
+        </text>
+        <text stroke-linecap="round" font-size="24" x="52.587082" y="49.81929"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_atenolol" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            atenolol
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-241.65598" y="67.426926"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acetaminophen" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            acetaminophen
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-28.121822" y="-349.6079"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_atropine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            atropine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-28.13303" y="-112.9718"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cannabis" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            cannabis
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-41.28611" y="345.40112"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_maoi" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            maoi
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-14.962514" y="279.9078"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_moclobemide" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            moclobemide
+        </text>
+        <text stroke-linecap="round" font-size="24" x="129.71635" y="-89.9533"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_methylphenidate" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            methylphenidate
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-125.92838"
+              y="-0.19833183" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nefazodone" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            nefazodone
+        </text>
+        <text stroke-linecap="round" font-size="24" x="111.802124"
+              y="-144.65973" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_methamphetamine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            methamphetamine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-141.20749"
+              y="-104.69851" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pseudoephedrine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            pseudoephedrine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-73.02553" y="29.453894"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_skullcap" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            skullcap
+        </text>
+        <text stroke-linecap="round" font-size="24" x="140.25653" y="-117.37369"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dextroamphetamine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            dextroamphetamine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="128.44028" y="224.74081"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fluoxetine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            fluoxetine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="279.17334" y="129.64215"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_clonazepam" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            clonazepam
+        </text>
+        <text stroke-linecap="round" font-size="24" x="140.28282" y="38.518585"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_thujone" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            thujone
+        </text>
+        <text stroke-linecap="round" font-size="24" x="316.2706" y="134.97325"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lorazepam" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            lorazepam
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-90.330124" y="106.50574"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_armodafinil" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            armodafinil
+        </text>
+        <text stroke-linecap="round" font-size="24" x="56.02201" y="77.09922"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hydroxyzine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            hydroxyzine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="261.92673" y="-34.170845"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pentylone" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            pentylone
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-119.63496" y="70.829605"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_adrafinil" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            adrafinil
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-87.164185" y="403.92935"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mimosa" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            mimosa
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-29.65402" y="128.44324"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_heroin" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            heroin
+        </text>
+        <text stroke-linecap="round" font-size="24" x="128.11958" y="9.983858"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ethanol" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            ethanol
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-31.155397" y="65.43765"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dimenhydrinate" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            dimenhydrinate
+        </text>
+        <text stroke-linecap="round" font-size="24" x="90.301476" y="166.40369"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_venlafaxine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            venlafaxine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="17.398678" y="127.58459"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_buprenorphine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            buprenorphine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-52.097317"
+              y="-50.227665" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_aniracetam" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            aniracetam
+        </text>
+        <text stroke-linecap="round" font-size="24" x="138.39854" y="-163.43333"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_amphetamine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            amphetamine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-7.3362684" y="-8.125574"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_piperazine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            piperazine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-47.77856" y="-311.1753"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_aconitum" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            aconitum
+        </text>
+        <text stroke-linecap="round" font-size="24" x="115.40368" y="-220.64142"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sound" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            sound
+        </text>
+        <text stroke-linecap="round" font-size="24" x="7.187845" y="-355.82028"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hyoscyamine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            hyoscyamine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-116.92996" y="376.72342"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ayahuasca" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            ayahuasca
+        </text>
+        <text stroke-linecap="round" font-size="24" x="197.18394" y="-192.46031"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bk-mdma" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            bk-mdma
+        </text>
+        <text stroke-linecap="round" font-size="24" x="165.21376" y="-221.10023"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mdma" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            mdma
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-59.26697" y="5.7969074"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_zacatechichi" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            zacatechichi
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-244.46564" y="104.47992"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_codeine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            codeine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-235.67058"
+              y="-164.14296" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_guarana" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            guarana
+        </text>
+        <text stroke-linecap="round" font-size="24" x="266.5659" y="70.19532"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_flunitrazepam" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            flunitrazepam
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-76.055565"
+              y="-59.799477" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_piracetam" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            piracetam
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-272.80923" y="86.067375"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hydrocodone" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            hydrocodone
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-115.36489" y="319.1032"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dmt" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            dmt
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-253.49117"
+              y="-198.55467" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_theobromine" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            theobromine
+        </text>
+        <text stroke-linecap="round" font-size="24" x="293.67703" y="89.30827"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_temazepam" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            temazepam
+        </text>
+        <text stroke-linecap="round" font-size="24" x="244.61052" y="-60.5783"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mdpv" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            mdpv
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-257.61252" y="3.0666234"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_opioid" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            opioid
+        </text>
+        <text stroke-linecap="round" font-size="24" x="69.48668" y="-34.814713"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_GABA" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.0px">
+            GABA
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-265.96576" y="45.012466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_meperidine">
+            meperidine
+        </text>
+        <text font-size="24" x="127.03489" y="186.6002" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_paroxetine">
+            paroxetine
+        </text>
+        <text font-size="24" x="111.30461" y="-272.9709" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lsd">
+            lsd
+        </text>
+        <text font-size="24" x="-4.6654553" y="145.36736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_naloxone">
+            naloxone
+        </text>
+        <text font-size="24" x="-285.0378" y="-188.32103" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_theophylline">
+            theophylline
+        </text>
+        <text font-size="24" x="40.444798" y="-326.8368" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lsa">
+            lsa
+        </text>
+        <text font-size="24" x="-197.10199" y="-140.28555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ginseng">
+            ginseng
+        </text>
+        <text font-size="24" x="156.75482" y="210.77646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sertraline">
+            sertraline
+        </text>
+        <text font-size="24" x="-166.1283" y="-121.45038" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ephedrine">
+            ephedrine
+        </text>
+        <text font-size="24" x="-54.395676" y="-116.289856" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cannabinoid">
+            cannabinoid
+        </text>
+        <text font-size="24" x="204.14967" y="-163.96631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bk-mdea">
+            bk-mdea
+        </text>
+        <text font-size="24" x="6.375103" y="-62.019753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dxm">
+            dxm
+        </text>
+        <text font-size="24" x="-57.07776" y="-279.32733" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_manaca">
+            manaca
+        </text>
+        <text font-size="24" x="-299.43948" y="41.33927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_oxycodone">
+            oxycodone
+        </text>
+        <text font-size="24" x="-119.83581" y="100.35113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_modafinil">
+            modafinil
+        </text>
+        <text font-size="24" x="26.582983" y="-77.6264" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_chlorpheniramine">
+            chlorpheniramine
+        </text>
+        <text font-size="24" x="-309.69562" y="84.657394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hydromorphone">
+            hydromorphone
+        </text>
+        <text font-size="24" x="-80.64135" y="357.9604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_harmaline">
+            harmaline
+        </text>
+        <text font-size="24" x="-48.750713" y="393.77975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_chaliponga">
+            chaliponga
+        </text>
+        <text font-size="24" x="-107.94743" y="272.64603" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_anadenanthera">
+            anadenanthera
+        </text>
+        <text font-size="24" x="119.1122" y="55.880272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_calamus">
+            calamus
+        </text>
+        <text font-size="24" x="67.84107" y="-8.534649" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_niacin">
+            niacin
+        </text>
+        <text font-size="24" x="85.70113" y="-242.22769" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_diazepam">
+            diazepam
+        </text>
+        <text font-size="24" x="230.13426" y="-33.493824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_4-mmc">
+            4-mmc
+        </text>
+        <text font-size="24" x="-5.853637" y="58.672092" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_diphenhydramine">
+            diphenhydramine
+        </text>
+        <text font-size="24" x="124.33023" y="145.9614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_citalopram">
+            citalopram
+        </text>
+        <text font-size="24" x="327.7698" y="103.141655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_benzodiazepine">
+            benzodiazepine
+        </text>
+        <text font-size="24" x="14.466151" y="5.930212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_meta-chlorophenylpiperazine">
+            meta-chlorophenylpiperazine
+        </text>
+        <text font-size="24" x="-272.54163" y="-158.70589" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_caffeine">
+            caffeine
+        </text>
+        <text font-size="24" x="-120.72679" y="-24.857855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pramipexole">
+            pramipexole
+        </text>
+        <text font-size="24" x="-4.0498667" y="-317.66718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hyoscine">
+            hyoscine
+        </text>
+        <text font-size="24" x="245.69014" y="127.84652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_alprazolam">
+            alprazolam
+        </text>
+        <text font-size="24" x="91.04537" y="-195.81422" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_salvia">
+            salvia
+        </text>
+        <text font-size="24" x="-137.76892" y="278.45782" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bufotenin">
+            bufotenin
+        </text>
+        <text font-size="24" x="52.587082" y="49.81929" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_atenolol">
+            atenolol
+        </text>
+        <text font-size="24" x="-241.65598" y="67.426926" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acetaminophen">
+            acetaminophen
+        </text>
+        <text font-size="24" x="-28.121822" y="-349.6079" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_atropine">
+            atropine
+        </text>
+        <text font-size="24" x="-28.13303" y="-112.9718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cannabis">
+            cannabis
+        </text>
+        <text font-size="24" x="-41.28611" y="345.40112" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_maoi">
+            maoi
+        </text>
+        <text font-size="24" x="-14.962514" y="279.9078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_moclobemide">
+            moclobemide
+        </text>
+        <text font-size="24" x="129.71635" y="-89.9533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_methylphenidate">
+            methylphenidate
+        </text>
+        <text font-size="24" x="-125.92838" y="-0.19833183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nefazodone">
+            nefazodone
+        </text>
+        <text font-size="24" x="111.802124" y="-144.65973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_methamphetamine">
+            methamphetamine
+        </text>
+        <text font-size="24" x="-141.20749" y="-104.69851" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pseudoephedrine">
+            pseudoephedrine
+        </text>
+        <text font-size="24" x="-73.02553" y="29.453894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_skullcap">
+            skullcap
+        </text>
+        <text font-size="24" x="140.25653" y="-117.37369" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dextroamphetamine">
+            dextroamphetamine
+        </text>
+        <text font-size="24" x="128.44028" y="224.74081" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fluoxetine">
+            fluoxetine
+        </text>
+        <text font-size="24" x="279.17334" y="129.64215" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_clonazepam">
+            clonazepam
+        </text>
+        <text font-size="24" x="140.28282" y="38.518585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_thujone">
+            thujone
+        </text>
+        <text font-size="24" x="316.2706" y="134.97325" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lorazepam">
+            lorazepam
+        </text>
+        <text font-size="24" x="-90.330124" y="106.50574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_armodafinil">
+            armodafinil
+        </text>
+        <text font-size="24" x="56.02201" y="77.09922" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hydroxyzine">
+            hydroxyzine
+        </text>
+        <text font-size="24" x="261.92673" y="-34.170845" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pentylone">
+            pentylone
+        </text>
+        <text font-size="24" x="-119.63496" y="70.829605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_adrafinil">
+            adrafinil
+        </text>
+        <text font-size="24" x="-87.164185" y="403.92935" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mimosa">
+            mimosa
+        </text>
+        <text font-size="24" x="-29.65402" y="128.44324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_heroin">
+            heroin
+        </text>
+        <text font-size="24" x="128.11958" y="9.983858" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ethanol">
+            ethanol
+        </text>
+        <text font-size="24" x="-31.155397" y="65.43765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dimenhydrinate">
+            dimenhydrinate
+        </text>
+        <text font-size="24" x="90.301476" y="166.40369" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_venlafaxine">
+            venlafaxine
+        </text>
+        <text font-size="24" x="17.398678" y="127.58459" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_buprenorphine">
+            buprenorphine
+        </text>
+        <text font-size="24" x="-52.097317" y="-50.227665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_aniracetam">
+            aniracetam
+        </text>
+        <text font-size="24" x="138.39854" y="-163.43333" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_amphetamine">
+            amphetamine
+        </text>
+        <text font-size="24" x="-7.3362684" y="-8.125574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_piperazine">
+            piperazine
+        </text>
+        <text font-size="24" x="-47.77856" y="-311.1753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_aconitum">
+            aconitum
+        </text>
+        <text font-size="24" x="115.40368" y="-220.64142" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sound">
+            sound
+        </text>
+        <text font-size="24" x="7.187845" y="-355.82028" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hyoscyamine">
+            hyoscyamine
+        </text>
+        <text font-size="24" x="-116.92996" y="376.72342" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ayahuasca">
+            ayahuasca
+        </text>
+        <text font-size="24" x="197.18394" y="-192.46031" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bk-mdma">
+            bk-mdma
+        </text>
+        <text font-size="24" x="165.21376" y="-221.10023" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mdma">
+            mdma
+        </text>
+        <text font-size="24" x="-59.26697" y="5.7969074" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_zacatechichi">
+            zacatechichi
+        </text>
+        <text font-size="24" x="-244.46564" y="104.47992" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_codeine">
+            codeine
+        </text>
+        <text font-size="24" x="-235.67058" y="-164.14296" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_guarana">
+            guarana
+        </text>
+        <text font-size="24" x="266.5659" y="70.19532" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_flunitrazepam">
+            flunitrazepam
+        </text>
+        <text font-size="24" x="-76.055565" y="-59.799477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_piracetam">
+            piracetam
+        </text>
+        <text font-size="24" x="-272.80923" y="86.067375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hydrocodone">
+            hydrocodone
+        </text>
+        <text font-size="24" x="-115.36489" y="319.1032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dmt">
+            dmt
+        </text>
+        <text font-size="24" x="-253.49117" y="-198.55467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_theobromine">
+            theobromine
+        </text>
+        <text font-size="24" x="293.67703" y="89.30827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_temazepam">
+            temazepam
+        </text>
+        <text font-size="24" x="244.61052" y="-60.5783" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mdpv">
+            mdpv
+        </text>
+        <text font-size="24" x="-257.61252" y="3.0666234" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_opioid">
+            opioid
+        </text>
+        <text font-size="24" x="69.48668" y="-34.814713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_GABA">
+            GABA
+        </text>
+    </g>
+</svg>

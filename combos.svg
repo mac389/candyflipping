@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1410.554"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-697.000000 -711.000000 1410.553955 1419.000000" height="1419.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -508.650696,485.136780 C -359.741974,266.168060 192.074188,161.078033 411.042908,309.986755"
+              class="id_acetaminophen id_hydrocodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -508.650696,485.136780 C -646.256348,169.150146 -378.684906,-511.238342 -62.698284,-648.843994"
+              class="id_acetaminophen id_oxycodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -508.650696,485.136780 C -529.417419,260.881073 -224.183899,-106.652527 0.071818,-127.419235"
+              class="id_acetaminophen id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 481.397491,511.996429 C 277.294250,578.493469 -128.606171,372.084167 -195.103226,167.980896"
+              class="id_alprazolam id_diazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 481.397491,511.996429 C 263.837036,425.009125 67.977280,-31.812492 154.964584,-249.372955"
+              class="id_alprazolam id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 481.397491,511.996429 C 257.249207,480.378418 -31.546181,96.729050 0.071818,-127.419235"
+              class="id_alprazolam id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -267.893677,-652.812866 C -102.634033,-656.696533 151.080902,-414.632599 154.964584,-249.372955"
+              class="id_amanita id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -267.893677,-652.812866 C -41.680405,-457.835236 5.173050,173.951187 -189.804596,400.164459"
+              class="id_amanita id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -267.893677,-652.812866 C -69.936005,-562.407043 91.391754,-129.861771 0.985932,68.095901"
+              class="id_amanita id_salvia" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -267.893677,-652.812866 C -109.221855,-601.327209 51.557449,-286.091064 0.071818,-127.419235"
+              class="id_amanita id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 245.512360,-79.224625 363.456879,-129.380768 419.490448,-106.784630"
+              class="id_amphetamine id_atropine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 194.038757,-104.182915 272.210297,-268.986908 353.202148,-297.864380"
+              class="id_amphetamine id_caffeine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 292.130737,-121.305389 543.123962,-164.655121 641.238281,-95.440636"
+              class="id_amphetamine id_cannabinoid" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 127.555885,67.555779 -151.604935,60.635502 -242.351776,-34.724861"
+              class="id_amphetamine id_cannabis" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 102.085815,14.964813 -136.393661,-109.047020 -174.549545,-229.877457"
+              class="id_amphetamine id_cocaine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 177.546753,98.647224 -73.264931,213.350388 -195.103226,167.980896"
+              class="id_amphetamine id_diazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 263.731354,17.108511 264.504669,138.780548 224.205078,179.595657"
+              class="id_amphetamine id_dmt" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 282.290161,122.367905 153.012589,429.767273 7.453621,489.141174"
+              class="id_amphetamine id_dxm" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 240.254150,77.697311 114.928444,255.036728 14.040061,272.374634"
+              class="id_amphetamine id_ethanol" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 126.668411,-105.755188 106.142822,-373.973083 188.706940,-470.220917"
+              class="id_amphetamine id_heroin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 73.661705,99.298805 -333.954956,59.151802 -456.444824,-90.102737"
+              class="id_amphetamine id_hyoscine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 96.705666,-52.205784 -49.088158,-285.043732 -20.073446,-411.254303"
+              class="id_amphetamine id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 296.130066,-45.923203 440.049042,29.799351 462.781189,103.013191"
+              class="id_amphetamine id_lsa" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 164.089539,-54.837112 123.318542,-190.546249 154.964584,-249.372955"
+              class="id_amphetamine id_lsd" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 169.216248,165.863342 -194.915344,368.894958 -383.969757,315.194977"
+              class="id_amphetamine id_maoi" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 306.435791,66.518433 297.150818,326.362000 207.441315,409.881531"
+              class="id_amphetamine id_mdma" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 225.043182,144.024200 -22.589325,398.037506 -189.804596,400.164459"
+              class="id_amphetamine id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 196.787582,39.452389 63.629387,94.224571 0.985932,68.095901"
+              class="id_amphetamine id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 157.501709,0.532181 23.795071,-62.004715 0.071818,-127.419235"
+              class="id_amphetamine id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 65.202675,177.832733 -472.903320,242.798065 -673.927124,85.084496"
+              class="id_amphetamine id_theobromine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.916245,-23.191069 C 237.765198,210.151230 -89.974869,582.438110 -323.317169,597.287109"
+              class="id_amphetamine id_theophylline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -136.172775,689.205750 C -166.019226,515.208191 50.207481,209.442093 224.205078,179.595657"
+              class="id_anadenanthera id_dmt" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 291.499664,110.345215 -226.181335,244.053772 -443.311188,116.062988"
+              class="id_atropine id_ayahuasca" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 368.016846,-131.742920 328.243866,-246.390778 353.202148,-297.864380"
+              class="id_atropine id_caffeine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 301.533966,39.995781 -95.571365,83.231644 -242.351776,-34.724861"
+              class="id_atropine id_cannabis" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 276.063873,-12.595200 -80.360115,-86.450897 -174.549545,-229.877457"
+              class="id_atropine id_cocaine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 351.524841,71.087219 -17.231377,235.946533 -195.103226,167.980896"
+              class="id_atropine id_diazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 437.709442,-10.451496 320.538208,161.376678 224.205078,179.595657"
+              class="id_atropine id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 456.268219,94.807892 209.046143,452.363403 7.453621,489.141174"
+              class="id_atropine id_dxm" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 414.232208,50.137306 170.962006,277.632874 14.040061,272.374634"
+              class="id_atropine id_ethanol" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 221.928955,-40.619308 -173.661224,-237.713562 -239.826538,-435.275055"
+              class="id_atropine id_harmaline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 470.108154,-73.483215 496.082611,52.395477 462.781189,103.013191"
+              class="id_atropine id_lsa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 338.067596,-82.397118 179.352081,-167.950104 154.964584,-249.372955"
+              class="id_atropine id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 480.413849,38.958427 353.184357,348.958130 207.441315,409.881531"
+              class="id_atropine id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 216.226959,20.808075 -280.057343,-92.698090 -407.650055,-295.961578"
+              class="id_atropine id_methaqualone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 399.021240,116.464203 33.444237,420.633667 -189.804596,400.164459"
+              class="id_atropine id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 370.765656,11.892380 119.662941,116.820702 0.985932,68.095901"
+              class="id_atropine id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.490448,-106.784630 C 331.479797,-27.027824 79.828621,-39.408585 0.071818,-127.419235"
+              class="id_atropine id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -366.794006,-126.025146 111.114014,-374.381561 353.202148,-297.864380"
+              class="id_ayahuasca id_caffeine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -433.276855,45.713535 -312.701233,-44.759178 -242.351776,-34.724861"
+              class="id_ayahuasca id_cannabis" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -383.286011,76.804977 -234.361237,107.955734 -195.103226,167.980896"
+              class="id_ayahuasca id_diazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -297.101379,-4.733734 103.408363,33.385880 224.205078,179.595657"
+              class="id_ayahuasca id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -320.578613,55.855064 -46.167862,149.642059 14.040061,272.374634"
+              class="id_ayahuasca id_ethanol" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -512.881836,-34.901554 -390.791077,-365.704376 -239.826538,-435.275055"
+              class="id_ayahuasca id_harmaline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -487.171082,77.456566 -495.051239,-46.242863 -456.444824,-90.102737"
+              class="id_ayahuasca id_hyoscine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -464.127075,-74.048019 -210.184448,-390.438385 -20.073446,-411.254303"
+              class="id_ayahuasca id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -396.743225,-76.679359 -37.777763,-295.940918 154.964584,-249.372955"
+              class="id_ayahuasca id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -391.616516,144.021103 -356.011658,263.500305 -383.969757,315.194977"
+              class="id_ayahuasca id_maoi" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -254.397003,44.676193 136.054520,220.967331 207.441315,409.881531"
+              class="id_ayahuasca id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -446.956665,190.427322 -563.971375,296.505676 -638.335693,292.860199"
+              class="id_ayahuasca id_mimosa" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -335.789551,122.181969 -183.685623,292.642853 -189.804596,400.164459"
+              class="id_ayahuasca id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -364.045197,17.610153 -97.466904,-11.170105 0.985932,68.095901"
+              class="id_ayahuasca id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -443.311188,116.062988 C -403.331024,-21.310051 -137.301224,-167.399384 0.071818,-127.419235"
+              class="id_ayahuasca id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 451.294128,-314.986877 624.115784,-193.532608 641.238281,-95.440636"
+              class="id_caffeine id_cannabinoid" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 286.719238,-126.125664 -70.613068,31.758034 -242.351776,-34.724861"
+              class="id_caffeine id_cannabis" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 261.249176,-178.716644 -55.401814,-137.924500 -174.549545,-229.877457"
+              class="id_caffeine id_cocaine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 410.680725,-354.262573 581.495850,-352.641998 637.894104,-295.163422"
+              class="id_caffeine id_codeine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 336.710144,-95.034241 7.726906,184.472900 -195.103226,167.980896"
+              class="id_caffeine id_diazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 422.894745,-176.572968 345.496490,109.903061 224.205078,179.595657"
+              class="id_caffeine id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 441.453552,-71.313568 234.004425,400.889771 7.453621,489.141174"
+              class="id_caffeine id_dxm" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 399.417542,-115.984154 195.920288,226.159241 14.040061,272.374634"
+              class="id_caffeine id_ethanol" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 207.114273,-206.740784 -148.702942,-289.187164 -239.826538,-435.275055"
+              class="id_caffeine id_harmaline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 285.831787,-299.436646 187.134674,-402.850555 188.706940,-470.220917"
+              class="id_caffeine id_heroin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 232.825073,-94.382645 -252.963104,30.274338 -456.444824,-90.102737"
+              class="id_caffeine id_hyoscine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 255.869049,-245.887238 31.903687,-313.921204 -20.073446,-411.254303"
+              class="id_caffeine id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 455.293457,-239.604675 521.040894,0.921869 462.781189,103.013191"
+              class="id_caffeine id_lsa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 323.252899,-248.518585 204.310379,-219.423706 154.964584,-249.372955"
+              class="id_caffeine id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 328.379639,-27.818115 -113.923500,340.017487 -383.969757,315.194977"
+              class="id_caffeine id_maoi" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 465.599182,-127.163033 378.142639,297.484497 207.441315,409.881531"
+              class="id_caffeine id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 201.412262,-145.313385 -255.099060,-144.171692 -407.650055,-295.961578"
+              class="id_caffeine id_methaqualone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 291.408508,-358.963196 290.366333,-543.301941 351.465149,-605.095581"
+              class="id_caffeine id_nicotine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 351.607391,-362.674103 446.429871,-462.280853 511.239594,-463.875610"
+              class="id_caffeine id_poppy" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 384.206573,-49.657265 58.402519,369.160034 -189.804596,400.164459"
+              class="id_caffeine id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 355.950958,-154.229095 144.621231,65.347092 0.985932,68.095901"
+              class="id_caffeine id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 353.202148,-297.864380 C 316.665100,-193.149292 104.786911,-90.882202 0.071818,-127.419235"
+              class="id_caffeine id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 641.238281,-95.440636 C 476.663422,93.420540 -53.490601,129.850006 -242.351776,-34.724861"
+              class="id_cannabinoid id_cannabis" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 641.238281,-95.440636 C 451.193329,40.829575 -38.279335,-39.832520 -174.549545,-229.877457"
+              class="id_cannabinoid id_cocaine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 641.238281,-95.440636 C 526.654297,124.511963 24.849377,282.564880 -195.103226,167.980896"
+              class="id_cannabinoid id_diazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 641.238281,-95.440636 C 612.838928,42.973263 362.618988,207.995026 224.205078,179.595657"
+              class="id_cannabinoid id_dmt" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 641.238281,-95.440636 C 589.361694,103.562080 213.042770,324.251221 14.040061,272.374634"
+              class="id_cannabinoid id_ethanol" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 641.238281,-95.440636 C 513.197083,-28.972359 221.432861,-121.331749 154.964584,-249.372955"
+              class="id_cannabinoid id_lsd" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 641.238281,-95.440636 C 655.543335,92.383202 395.265137,395.576477 207.441315,409.881531"
+              class="id_cannabinoid id_mdma" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 641.238281,-95.440636 C 545.895142,65.317146 161.743713,163.439072 0.985932,68.095901"
+              class="id_cannabinoid id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 641.238281,-95.440636 C 506.609283,26.396935 121.909393,7.209778 0.071818,-127.419235"
+              class="id_cannabinoid id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -267.821838,-87.315834 -227.140503,-204.407379 -174.549545,-229.877457"
+              class="id_cannabis id_cocaine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -192.360916,-3.633422 -164.011780,117.990036 -195.103226,167.980896"
+              class="id_cannabis id_diazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -106.176300,-85.172134 173.757813,43.420174 224.205078,179.595657"
+              class="id_cannabis id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -87.617485,20.087257 62.265739,334.406891 7.453621,489.141174"
+              class="id_cannabis id_dxm" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -129.653503,-24.583328 24.181595,159.676376 14.040061,272.374634"
+              class="id_cannabis id_ethanol" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -321.956757,-115.339951 -320.441620,-355.670044 -239.826538,-435.275055"
+              class="id_cannabis id_harmaline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -243.239243,-208.035828 15.395981,-469.333435 188.706940,-470.220917"
+              class="id_cannabis id_heroin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -296.245941,-2.981827 -424.701782,-36.208549 -456.444824,-90.102737"
+              class="id_cannabis id_hyoscine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -273.201996,-154.486420 -139.835007,-380.404083 -20.073446,-411.254303"
+              class="id_cannabis id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -73.777573,-148.203842 349.302185,-65.561020 462.781189,103.013191"
+              class="id_cannabis id_lsa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -205.818130,-157.117752 32.571690,-285.906616 154.964584,-249.372955"
+              class="id_cannabis id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -200.691422,63.582699 -285.662170,273.534607 -383.969757,315.194977"
+              class="id_cannabis id_maoi" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -63.471886,-35.762207 206.403961,231.001648 207.441315,409.881531"
+              class="id_cannabis id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -144.864471,41.743568 -113.336159,302.677155 -189.804596,400.164459"
+              class="id_cannabis id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -173.120087,-62.828251 -27.117458,-1.135792 0.985932,68.095901"
+              class="id_cannabis id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -242.351776,-34.724861 C -212.405945,-101.748459 -66.951775,-157.365082 0.071818,-127.419235"
+              class="id_cannabis id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -99.088608,-146.195053 -111.420822,92.519958 -195.103226,167.980896"
+              class="id_cocaine id_diazepam" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -12.903992,-227.733765 226.348770,17.950104 224.205078,179.595657"
+              class="id_cocaine id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C 5.654816,-122.474365 114.856712,308.936829 7.453621,489.141174"
+              class="id_cocaine id_dxm" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -36.381218,-167.144958 76.772560,134.206299 14.040061,272.374634"
+              class="id_cocaine id_ethanol" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -149.966934,-350.597443 67.986954,-494.803528 188.706940,-470.220917"
+              class="id_cocaine id_heroin" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -202.973648,-145.543457 -372.110809,-61.678627 -456.444824,-90.102737"
+              class="id_cocaine id_hyoscine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -179.929688,-297.048065 -87.244034,-405.874176 -20.073446,-411.254303"
+              class="id_cocaine id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -112.545822,-299.679382 85.162659,-311.376678 154.964584,-249.372955"
+              class="id_cocaine id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C 29.800438,-178.323822 258.994934,205.531540 207.441315,409.881531"
+              class="id_cocaine id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C 95.337273,-282.037109 578.406921,44.553665 630.566589,314.440491"
+              class="id_cocaine id_methamphetamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -144.390228,-410.124023 171.218567,-635.254883 351.465149,-605.095581"
+              class="id_cocaine id_nicotine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -51.592171,-100.818062 -60.745201,277.207092 -189.804596,400.164459"
+              class="id_cocaine id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -79.847771,-205.389877 25.473507,-26.605869 0.985932,68.095901"
+              class="id_cocaine id_salvia" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -119.133629,-244.310074 -14.360809,-182.835159 0.071818,-127.419235"
+              class="id_cocaine id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -211.432663,-67.009552 -511.059235,121.967621 -673.927124,85.084496"
+              class="id_cocaine id_theobromine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.549545,-229.877457 C -38.870163,-34.691025 -128.130753,461.607727 -323.317169,597.287109"
+              class="id_cocaine id_theophylline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 637.894104,-295.163422 C 513.045166,-240.337494 243.532867,-345.371979 188.706940,-470.220917"
+              class="id_codeine id_heroin" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 637.894104,-295.163422 C 713.553894,-128.763153 577.443176,234.326965 411.042908,309.986755"
+              class="id_codeine id_hydrocodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 637.894104,-295.163422 C 550.466309,-189.419434 260.708588,-161.945129 154.964584,-249.372955"
+              class="id_codeine id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 637.894104,-295.163422 C 578.820801,-303.574951 502.828064,-404.802277 511.239594,-463.875610"
+              class="id_codeine id_poppy" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 637.894104,-295.163422 C 543.878479,-134.050140 161.185104,-33.403625 0.071818,-127.419235"
+              class="id_codeine id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -108.918617,86.442192 142.666367,93.411049 224.205078,179.595657"
+              class="id_diazepam id_dmt" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -90.359795,191.701584 31.174313,384.397736 7.453621,489.141174"
+              class="id_diazepam id_dxm" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -132.395813,147.030991 -6.909845,209.667221 14.040061,272.374634"
+              class="id_diazepam id_ethanol" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -324.699097,56.274361 -351.533081,-305.679169 -239.826538,-435.275055"
+              class="id_diazepam id_harmaline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -245.981537,-36.421501 -15.695457,-419.342590 188.706940,-470.220917"
+              class="id_diazepam id_heroin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -298.988281,168.632507 -455.793243,13.782310 -456.444824,-90.102737"
+              class="id_diazepam id_hyoscine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -275.944336,17.127895 -170.926453,-330.413208 -20.073446,-411.254303"
+              class="id_diazepam id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -76.519882,23.410461 318.210754,-15.570160 462.781189,103.013191"
+              class="id_diazepam id_lsa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -208.560440,14.496567 1.480255,-235.915741 154.964584,-249.372955"
+              class="id_diazepam id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -66.214188,135.852112 175.312531,280.992493 207.441315,409.881531"
+              class="id_diazepam id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -330.401093,117.701767 -457.929199,-160.663712 -407.650055,-295.961578"
+              class="id_diazepam id_methaqualone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -180.205963,-99.658974 243.599701,-478.772888 511.239594,-463.875610"
+              class="id_diazepam id_poppy" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -147.606781,213.357880 -144.427612,352.668030 -189.804596,400.164459"
+              class="id_diazepam id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -175.862396,108.786057 -58.208900,48.855068 0.985932,68.095901"
+              class="id_diazepam id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -215.148239,69.865852 -98.043228,-107.374214 0.071818,-127.419235"
+              class="id_diazepam id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -307.447296,247.166397 -594.741638,197.428558 -673.927124,85.084496"
+              class="id_diazepam id_theobromine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.103226,167.980896 C -134.884766,279.484924 -211.813141,537.068665 -323.317169,597.287109"
+              class="id_diazepam id_theophylline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 90.248001,697.407532 C 32.035854,672.313171 -17.640774,547.353333 7.453621,489.141174"
+              class="id_diphenhydramine id_dxm" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 90.248001,697.407532 C -92.752594,550.477356 -146.858307,55.581364 0.071818,-127.419235"
+              class="id_diphenhydramine id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 242.763885,284.855042 112.713020,470.582336 7.453621,489.141174"
+              class="id_dmt id_dxm" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 200.727875,240.184464 74.628860,295.851837 14.040061,272.374634"
+              class="id_dmt id_ethanol" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 8.424591,149.427826 -269.994354,-219.494568 -239.826538,-435.275055"
+              class="id_dmt id_harmaline" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 34.135406,261.785950 -374.254517,99.966934 -456.444824,-90.102737"
+              class="id_dmt id_hyoscine" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 57.179375,110.281372 -89.387733,-244.228607 -20.073446,-411.254303"
+              class="id_dmt id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 256.603790,116.563934 399.749481,70.614456 462.781189,103.013191"
+              class="id_dmt id_lsa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 124.563255,107.650032 83.018959,-149.731125 154.964584,-249.372955"
+              class="id_dmt id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 129.689972,328.350464 -235.214905,409.710083 -383.969757,315.194977"
+              class="id_dmt id_maoi" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 266.909485,229.005585 256.851257,367.177094 207.441315,409.881531"
+              class="id_dmt id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 2.722603,210.855225 -376.390472,-74.479103 -407.650055,-295.961578"
+              class="id_dmt id_methaqualone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 92.718842,-2.794605 169.074875,-473.609375 351.465149,-605.095581"
+              class="id_dmt id_nicotine" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 185.516907,306.511353 -62.888901,438.852631 -189.804596,400.164459"
+              class="id_dmt id_psilocybin" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 157.261292,201.939529 23.329809,135.039673 0.985932,68.095901"
+              class="id_dmt id_salvia" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.205078,179.595657 C 117.975433,163.019318 -16.504509,-21.189598 0.071818,-127.419235"
+              class="id_dmt id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.453621,489.141174 C -34.582401,444.470581 -30.630537,314.410645 14.040061,272.374634"
+              class="id_dxm id_ethanol" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.453621,489.141174 C -148.168137,261.018066 -39.416153,-314.599182 188.706940,-470.220917"
+              class="id_dxm id_heroin" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.453621,489.141174 C -201.174866,466.072083 -479.513916,118.525742 -456.444824,-90.102737"
+              class="id_dxm id_hyoscine" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.453621,489.141174 C -178.130905,314.567474 -194.647156,-225.669769 -20.073446,-411.254303"
+              class="id_dxm id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.453621,489.141174 C 21.293541,320.850067 294.490082,89.173271 462.781189,103.013191"
+              class="id_dxm id_lsa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.453621,489.141174 C -110.747025,311.936157 -22.240440,-131.172318 154.964584,-249.372955"
+              class="id_dxm id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.453621,489.141174 C 31.599232,433.291718 151.591843,385.735931 207.441315,409.881531"
+              class="id_dxm id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.453621,489.141174 C -49.793365,510.797485 -168.148300,457.411438 -189.804596,400.164459"
+              class="id_dxm id_psilocybin" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.453621,489.141174 C -78.048981,406.225677 -81.929588,153.598495 0.985932,68.095901"
+              class="id_dxm id_salvia" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 7.453621,489.141174 C -117.334824,367.305450 -121.763908,-2.630786 0.071818,-127.419235"
+              class="id_dxm id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -470.316772,-530.215393 C -295.679840,-543.733887 -13.446671,-302.056152 0.071818,-127.419235"
+              class="id_ephedrine id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C 116.758026,100.157547 529.160583,-4.091125 701.377686,98.626854"
+              class="id_ethanol id_ether" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -178.263199,181.618011 -330.583160,-242.971802 -239.826538,-435.275055"
+              class="id_ethanol id_harmaline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -99.545677,88.922134 5.254440,-356.635162 188.706940,-470.220917"
+              class="id_ethanol id_heroin" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -152.552399,293.976135 -434.843323,76.489716 -456.444824,-90.102737"
+              class="id_ethanol id_hyoscine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -129.508423,142.471558 -149.976532,-267.705811 -20.073446,-411.254303"
+              class="id_ethanol id_hyoscyamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C 69.916000,148.754120 339.160675,47.137253 462.781189,103.013191"
+              class="id_ethanol id_lsa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -62.124542,139.840210 22.430168,-173.208344 154.964584,-249.372955"
+              class="id_ethanol id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -56.997833,360.540649 -295.803741,386.232880 -383.969757,315.194977"
+              class="id_ethanol id_maoi" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C 80.221695,261.195740 196.262451,343.699890 207.441315,409.881531"
+              class="id_ethanol id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -183.965210,243.045441 -436.979248,-97.956306 -407.650055,-295.961578"
+              class="id_ethanol id_methaqualone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -1.170902,338.701508 -123.477707,415.375427 -189.804596,400.164459"
+              class="id_ethanol id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -29.426516,234.129715 -37.258995,111.562477 0.985932,68.095901"
+              class="id_ethanol id_salvia" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -68.712364,195.209518 -77.093315,-44.666809 0.071818,-127.419235"
+              class="id_ethanol id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C -161.011414,372.510040 -573.791687,260.135986 -673.927124,85.084496"
+              class="id_ethanol id_theobromine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 14.040061,272.374634 C 11.551109,404.828552 -190.863220,599.776062 -323.317169,597.287109"
+              class="id_ethanol id_theophylline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 701.377686,98.626854 C 522.495117,138.309509 194.647217,-70.490356 154.964584,-249.372955"
+              class="id_ether id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 701.377686,98.626854 C 515.907288,193.678802 95.123779,58.051147 0.071818,-127.419235"
+              class="id_ether id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -686.863586,-128.025940 C -542.767334,-320.660980 -37.670448,-393.469177 154.964584,-249.372955"
+              class="id_ghb id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -686.863586,-128.025940 C -549.355164,-265.291687 -137.193924,-264.927673 0.071818,-127.419235"
+              class="id_ghb id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -239.826538,-435.275055 C -123.687897,-477.052856 113.186775,-365.511597 154.964584,-249.372955"
+              class="id_harmaline id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -239.826538,-435.275055 C -118.561172,-256.352386 -205.047104,193.929611 -383.969757,315.194977"
+              class="id_harmaline id_maoi" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -239.826538,-435.275055 C -173.901321,-209.946167 -413.006775,226.934967 -638.335693,292.860199"
+              class="id_harmaline id_mimosa" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -239.826538,-435.275055 C -62.734238,-278.191528 -32.721085,223.072159 -189.804596,400.164459"
+              class="id_harmaline id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -239.826538,-435.275055 C -90.989853,-382.763367 53.497631,-80.740784 0.985932,68.095901"
+              class="id_harmaline id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -239.826538,-435.275055 C -130.275696,-421.683563 13.663315,-236.970078 0.071818,-127.419235"
+              class="id_harmaline id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 188.706940,-470.220917 C 389.215668,-358.646576 522.617249,109.478027 411.042908,309.986755"
+              class="id_heroin id_hydrocodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 188.706940,-470.220917 C 226.128052,-419.302856 205.882660,-286.794067 154.964584,-249.372955"
+              class="id_heroin id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 188.706940,-470.220917 C 368.474304,-297.947327 379.714935,230.114166 207.441315,409.881531"
+              class="id_heroin id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 188.706940,-470.220917 C 102.701271,-455.664490 -48.141853,-562.838318 -62.698284,-648.843994"
+              class="id_heroin id_oxycodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 188.706940,-470.220917 C 254.482529,-533.458374 448.002136,-529.651245 511.239594,-463.875610"
+              class="id_heroin id_poppy" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 188.706940,-470.220917 C 219.540253,-363.933563 106.359184,-158.252563 0.071818,-127.419235"
+              class="id_heroin id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 411.042908,309.986755 C 247.955292,249.330475 94.308289,-86.285347 154.964584,-249.372955"
+              class="id_hydrocodone id_lsd" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 411.042908,309.986755 C 124.528519,212.968842 -159.716202,-362.329590 -62.698284,-648.843994"
+              class="id_hydrocodone id_oxycodone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 411.042908,309.986755 C 241.367493,304.699768 -5.215164,42.256187 0.071818,-127.419235"
+              class="id_hydrocodone id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -456.444824,-90.102737 C -233.976425,-235.324753 317.559174,-119.455200 462.781189,103.013191"
+              class="id_hyoscine id_lsa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -456.444824,-90.102737 C -366.016968,-244.238663 0.828657,-339.800781 154.964584,-249.372955"
+              class="id_hyoscine id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -456.444824,-90.102737 C -223.670746,-122.883110 174.660950,177.107452 207.441315,409.881531"
+              class="id_hyoscine id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -456.444824,-90.102737 C -487.857666,-141.033463 -458.580750,-264.548767 -407.650055,-295.961578"
+              class="id_hyoscine id_methaqualone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -456.444824,-90.102737 C -305.063293,-45.377335 -145.079193,248.782974 -189.804596,400.164459"
+              class="id_hyoscine id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -456.444824,-90.102737 C -333.318939,-149.949158 -58.860493,-55.029980 0.985932,68.095901"
+              class="id_hyoscine id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -456.444824,-90.102737 C -372.604797,-188.869354 -98.694809,-211.259247 0.071818,-127.419235"
+              class="id_hyoscine id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.073446,-411.254303 C 179.351013,-404.971741 469.063782,-96.411263 462.781189,103.013191"
+              class="id_hyoscyamine id_lsa" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.073446,-411.254303 C 47.310425,-413.885651 152.333252,-316.756805 154.964584,-249.372955"
+              class="id_hyoscyamine id_lsd" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.073446,-411.254303 C 189.656677,-292.530090 326.165527,200.151413 207.441315,409.881531"
+              class="id_hyoscyamine id_mdma" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.073446,-411.254303 C -74.530220,-310.680450 -307.076202,-241.504791 -407.650055,-295.961578"
+              class="id_hyoscyamine id_methaqualone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.073446,-411.254303 C 108.264076,-215.024323 6.425385,271.826935 -189.804596,400.164459"
+              class="id_hyoscyamine id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.073446,-411.254303 C 80.008476,-319.596130 92.644104,-31.986023 0.985932,68.095901"
+              class="id_hyoscyamine id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.073446,-411.254303 C 40.722626,-358.516327 52.809784,-188.215302 0.071818,-127.419235"
+              class="id_hyoscyamine id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 462.781189,103.013191 C 330.740631,94.099281 146.050659,-117.332405 154.964584,-249.372955"
+              class="id_lsa id_lsd" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 462.781189,103.013191 C 473.086853,215.454849 319.882935,399.575867 207.441315,409.881531"
+              class="id_lsa id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 462.781189,103.013191 C 391.694305,292.960632 0.142830,471.251343 -189.804596,400.164459"
+              class="id_lsa id_psilocybin" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 462.781189,103.013191 C 363.438660,188.388794 86.361526,167.438416 0.985932,68.095901"
+              class="id_lsa id_salvia" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 462.781189,103.013191 C 324.152832,149.468582 46.527206,11.209129 0.071818,-127.419235"
+              class="id_lsa id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 154.964584,-249.372955 C 160.091309,-28.672516 -163.269318,310.068268 -383.969757,315.194977"
+              class="id_lsd id_maoi" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 154.964584,-249.372955 C 33.123932,-146.167755 -304.444855,-174.120941 -407.650055,-295.961578"
+              class="id_lsd id_methaqualone" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 154.964584,-249.372955 C 123.120163,-359.817596 241.020508,-573.251160 351.465149,-605.095581"
+              class="id_lsd id_nicotine" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 154.964584,-249.372955 C 183.319061,-363.528503 397.084045,-492.230072 511.239594,-463.875610"
+              class="id_lsd id_poppy" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 154.964584,-249.372955 C 187.662628,-155.083450 95.275436,35.397858 0.985932,68.095901"
+              class="id_lsd id_salvia" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 154.964584,-249.372955 C 148.376770,-194.003662 55.441116,-120.831429 0.071818,-127.419235"
+              class="id_lsd id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -383.969757,315.194977 C -246.750244,215.850082 108.096413,272.661987 207.441315,409.881531"
+              class="id_maoi id_mdma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -383.969757,315.194977 C -439.309906,361.601196 -591.929504,348.200317 -638.335693,292.860199"
+              class="id_maoi id_mimosa" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -383.969757,315.194977 C -328.142822,293.355835 -211.643738,344.337524 -189.804596,400.164459"
+              class="id_maoi id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -383.969757,315.194977 C -356.398438,188.783997 -125.425034,40.524574 0.985932,68.095901"
+              class="id_maoi id_salvia" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -383.969757,315.194977 C -395.684265,149.863815 -165.259338,-115.704712 0.071818,-127.419235"
+              class="id_maoi id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 207.441315,409.881531 C 272.978180,306.168274 526.853333,248.903625 630.566589,314.440491"
+              class="id_mdma id_methamphetamine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 207.441315,409.881531 C 126.048714,487.387299 -112.298820,481.557068 -189.804596,400.164459"
+              class="id_mdma id_psilocybin" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 207.441315,409.881531 C 97.793114,382.815491 -26.080116,177.744110 0.985932,68.095901"
+              class="id_mdma id_salvia" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 207.441315,409.881531 C 58.507248,343.895294 -65.914444,21.514824 0.071818,-127.419235"
+              class="id_mdma id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 207.441315,409.881531 C -33.791771,521.195801 -562.612854,326.317566 -673.927124,85.084496"
+              class="id_mdma id_theobromine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 207.441315,409.881531 C 138.770737,553.514343 -179.684357,665.957642 -323.317169,597.287109"
+              class="id_mdma id_theophylline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 630.566589,314.440491 C 416.095703,352.167480 37.798813,87.051659 0.071818,-127.419235"
+              class="id_methamphetamine id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -407.650055,-295.961578 C -292.397217,-343.797485 -47.764091,-242.672073 0.071818,-127.419235"
+              class="id_methaqualone id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -638.335693,292.860199 C -594.710083,81.122787 -211.665588,-171.044861 0.071818,-127.419235"
+              class="id_mimosa id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 351.465149,-605.095581 C 416.007629,-400.361450 205.720062,3.553452 0.985932,68.095901"
+              class="id_nicotine id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 351.465149,-605.095581 C 376.721741,-439.281616 165.885757,-152.675827 0.071818,-127.419235"
+              class="id_nicotine id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -62.698284,-648.843994 C 54.140686,-557.113037 91.802750,-244.258209 0.071818,-127.419235"
+              class="id_oxycodone id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -621.648499,-341.013214 C -454.585632,-422.638489 -81.553459,-294.482117 0.071818,-127.419235"
+              class="id_oxygen id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 133.409439,-700.790771 C 221.416229,-559.448914 141.413651,-215.426010 0.071818,-127.419235"
+              class="id_peyote id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 511.239594,-463.875610 C 476.297302,-294.350800 169.596649,-92.476952 0.071818,-127.419235"
+              class="id_poppy id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.804596,400.164459 C -218.060181,295.592651 -103.585876,96.351509 0.985932,68.095901"
+              class="id_psilocybin id_salvia" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.804596,400.164459 C -257.346069,256.672424 -143.420197,-59.877777 0.071818,-127.419235"
+              class="id_psilocybin id_sound" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.985932,68.095901 C -38.299919,29.175697 -38.848385,-88.133385 0.071818,-127.419235"
+              class="id_salvia id_sound" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.985932,68.095901 C -130.598969,206.476242 -535.546814,216.669403 -673.927124,85.084496"
+              class="id_salvia id_theobromine" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.985932,68.095901 C 41.963562,238.794769 -152.618286,556.309448 -323.317169,597.287109"
+              class="id_salvia id_theophylline" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.985932,68.095901 C 172.481232,121.277756 349.951416,458.293457 296.769562,629.788757"
+              class="id_salvia id_thujone" stroke-opacity="1.0" stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-508.6507"
+                class="id_acetaminophen" cy="485.13678" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="411.0429"
+                class="id_hydrocodone" cy="309.98676" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-62.698284"
+                class="id_oxycodone" cy="-648.844" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="0.071817786"
+                class="id_sound" cy="-127.419235" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="481.3975"
+                class="id_alprazolam" cy="511.99643" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-195.10323"
+                class="id_diazepam" cy="167.9809" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="154.96458"
+                class="id_lsd" cy="-249.37296" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-267.89368"
+                class="id_amanita" cy="-652.81287" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-189.8046"
+                class="id_psilocybin" cy="400.16446" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="0.98593223"
+                class="id_salvia" cy="68.0959" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="222.91624"
+                class="id_amphetamine" cy="-23.191069" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="419.49045"
+                class="id_atropine" cy="-106.78463" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="353.20215"
+                class="id_caffeine" cy="-297.86438" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="641.2383"
+                class="id_cannabinoid" cy="-95.440636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-242.35178"
+                class="id_cannabis" cy="-34.72486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-174.54955"
+                class="id_cocaine" cy="-229.87746" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="224.20508"
+                class="id_dmt" cy="179.59566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="7.4536214"
+                class="id_dxm" cy="489.14117" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="14.040061"
+                class="id_ethanol" cy="272.37463" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="188.70694"
+                class="id_heroin" cy="-470.22092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-456.44482"
+                class="id_hyoscine" cy="-90.10274" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-20.073446"
+                class="id_hyoscyamine" cy="-411.2543" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="462.7812"
+                class="id_lsa" cy="103.01319" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-383.96976"
+                class="id_maoi" cy="315.19498" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="207.44131"
+                class="id_mdma" cy="409.88153" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-673.9271"
+                class="id_theobromine" cy="85.084496" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-323.31717"
+                class="id_theophylline" cy="597.2871" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-136.17278"
+                class="id_anadenanthera" cy="689.20575" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-443.3112"
+                class="id_ayahuasca" cy="116.06299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-239.82654"
+                class="id_harmaline" cy="-435.27505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-407.65005"
+                class="id_methaqualone" cy="-295.96158" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-638.3357"
+                class="id_mimosa" cy="292.8602" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="637.8941"
+                class="id_codeine" cy="-295.16342" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="351.46515"
+                class="id_nicotine" cy="-605.0956" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="511.2396"
+                class="id_poppy" cy="-463.8756" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="630.5666"
+                class="id_methamphetamine" cy="314.4405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="90.248"
+                class="id_diphenhydramine" cy="697.40753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-470.31677"
+                class="id_ephedrine" cy="-530.2154" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="701.3777"
+                class="id_ether" cy="98.626854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-686.8636"
+                class="id_ghb" cy="-128.02594" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-621.6485"
+                class="id_oxygen" cy="-341.0132" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="133.40944"
+                class="id_peyote" cy="-700.7908" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="296.76956"
+                class="id_thujone" cy="629.78876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+</svg>

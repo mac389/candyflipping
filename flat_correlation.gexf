@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Correlation" type="double" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>22/02/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="meperidine" label="meperidine" />
+      <node id="paroxetine" label="paroxetine" />
+      <node id="lsd" label="lsd" />
+      <node id="naloxone" label="naloxone" />
+      <node id="theophylline" label="theophylline" />
+      <node id="lsa" label="lsa" />
+      <node id="ginseng" label="ginseng" />
+      <node id="sertraline" label="sertraline" />
+      <node id="ephedrine" label="ephedrine" />
+      <node id="cannabinoid" label="cannabinoid" />
+      <node id="bk-mdea" label="bk-mdea" />
+      <node id="dxm" label="dxm" />
+      <node id="manaca" label="manaca" />
+      <node id="oxycodone" label="oxycodone" />
+      <node id="modafinil" label="modafinil" />
+      <node id="chlorpheniramine" label="chlorpheniramine" />
+      <node id="hydromorphone" label="hydromorphone" />
+      <node id="harmaline" label="harmaline" />
+      <node id="chaliponga" label="chaliponga" />
+      <node id="anadenanthera" label="anadenanthera" />
+      <node id="calamus" label="calamus" />
+      <node id="niacin" label="niacin" />
+      <node id="diazepam" label="diazepam" />
+      <node id="4-mmc" label="4-mmc" />
+      <node id="diphenhydramine" label="diphenhydramine" />
+      <node id="citalopram" label="citalopram" />
+      <node id="benzodiazepine" label="benzodiazepine" />
+      <node id="meta-chlorophenylpiperazine" label="meta-chlorophenylpiperazine" />
+      <node id="caffeine" label="caffeine" />
+      <node id="pramipexole" label="pramipexole" />
+      <node id="hyoscine" label="hyoscine" />
+      <node id="alprazolam" label="alprazolam" />
+      <node id="salvia" label="salvia" />
+      <node id="bufotenin" label="bufotenin" />
+      <node id="atenolol" label="atenolol" />
+      <node id="acetaminophen" label="acetaminophen" />
+      <node id="atropine" label="atropine" />
+      <node id="cannabis" label="cannabis" />
+      <node id="maoi" label="maoi" />
+      <node id="moclobemide" label="moclobemide" />
+      <node id="methylphenidate" label="methylphenidate" />
+      <node id="nefazodone" label="nefazodone" />
+      <node id="methamphetamine" label="methamphetamine" />
+      <node id="pseudoephedrine" label="pseudoephedrine" />
+      <node id="skullcap" label="skullcap" />
+      <node id="dextroamphetamine" label="dextroamphetamine" />
+      <node id="fluoxetine" label="fluoxetine" />
+      <node id="clonazepam" label="clonazepam" />
+      <node id="thujone" label="thujone" />
+      <node id="lorazepam" label="lorazepam" />
+      <node id="armodafinil" label="armodafinil" />
+      <node id="hydroxyzine" label="hydroxyzine" />
+      <node id="pentylone" label="pentylone" />
+      <node id="adrafinil" label="adrafinil" />
+      <node id="mimosa" label="mimosa" />
+      <node id="heroin" label="heroin" />
+      <node id="ethanol" label="ethanol" />
+      <node id="dimenhydrinate" label="dimenhydrinate" />
+      <node id="venlafaxine" label="venlafaxine" />
+      <node id="buprenorphine" label="buprenorphine" />
+      <node id="aniracetam" label="aniracetam" />
+      <node id="amphetamine" label="amphetamine" />
+      <node id="piperazine" label="piperazine" />
+      <node id="aconitum" label="aconitum" />
+      <node id="sound" label="sound" />
+      <node id="hyoscyamine" label="hyoscyamine" />
+      <node id="ayahuasca" label="ayahuasca" />
+      <node id="bk-mdma" label="bk-mdma" />
+      <node id="mdma" label="mdma" />
+      <node id="zacatechichi" label="zacatechichi" />
+      <node id="codeine" label="codeine" />
+      <node id="guarana" label="guarana" />
+      <node id="flunitrazepam" label="flunitrazepam" />
+      <node id="piracetam" label="piracetam" />
+      <node id="hydrocodone" label="hydrocodone" />
+      <node id="dmt" label="dmt" />
+      <node id="theobromine" label="theobromine" />
+      <node id="temazepam" label="temazepam" />
+      <node id="mdpv" label="mdpv" />
+      <node id="opioid" label="opioid" />
+      <node id="GABA" label="GABA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="meperidine" target="hydrocodone">
+        <attvalues>
+          <attvalue for="0" value="0.742813169633" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="meperidine" target="oxycodone">
+        <attvalues>
+          <attvalue for="0" value="0.764857978232" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="paroxetine" target="citalopram">
+        <attvalues>
+          <attvalue for="0" value="0.758647407604" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="paroxetine" target="sertraline">
+        <attvalues>
+          <attvalue for="0" value="0.819253411347" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="paroxetine" target="venlafaxine">
+        <attvalues>
+          <attvalue for="0" value="0.726033170697" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="paroxetine" target="fluoxetine">
+        <attvalues>
+          <attvalue for="0" value="0.804349892404" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="lsd" target="sound">
+        <attvalues>
+          <attvalue for="0" value="0.828688872589" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="lsd" target="diazepam">
+        <attvalues>
+          <attvalue for="0" value="0.925651764268" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="lsd" target="mdma">
+        <attvalues>
+          <attvalue for="0" value="0.779685471444" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="lsd" target="lsa">
+        <attvalues>
+          <attvalue for="0" value="0.736887232721" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="naloxone" target="buprenorphine">
+        <attvalues>
+          <attvalue for="0" value="0.920221242226" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="naloxone" target="heroin">
+        <attvalues>
+          <attvalue for="0" value="0.720105558609" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="theophylline" target="theobromine">
+        <attvalues>
+          <attvalue for="0" value="0.999855040149" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="theophylline" target="caffeine">
+        <attvalues>
+          <attvalue for="0" value="0.87300121167" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="theophylline" target="guarana">
+        <attvalues>
+          <attvalue for="0" value="0.747558202007" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="lsa" target="atropine">
+        <attvalues>
+          <attvalue for="0" value="0.819091050355" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="lsa" target="hyoscine">
+        <attvalues>
+          <attvalue for="0" value="0.817395409831" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="lsa" target="hyoscyamine">
+        <attvalues>
+          <attvalue for="0" value="0.816955195359" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="ginseng" target="guarana">
+        <attvalues>
+          <attvalue for="0" value="0.726320153823" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="ginseng" target="ephedrine">
+        <attvalues>
+          <attvalue for="0" value="0.743057759741" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="sertraline" target="fluoxetine">
+        <attvalues>
+          <attvalue for="0" value="0.773997166596" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="ephedrine" target="pseudoephedrine">
+        <attvalues>
+          <attvalue for="0" value="0.934910005992" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="cannabinoid" target="cannabis">
+        <attvalues>
+          <attvalue for="0" value="0.727325890815" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="bk-mdea" target="bk-mdma">
+        <attvalues>
+          <attvalue for="0" value="0.768543641816" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="dxm" target="chlorpheniramine">
+        <attvalues>
+          <attvalue for="0" value="0.778069413736" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="manaca" target="aconitum">
+        <attvalues>
+          <attvalue for="0" value="0.761941326393" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="oxycodone" target="hydromorphone">
+        <attvalues>
+          <attvalue for="0" value="0.761367967274" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="oxycodone" target="opioid">
+        <attvalues>
+          <attvalue for="0" value="0.723598650754" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="oxycodone" target="hydrocodone">
+        <attvalues>
+          <attvalue for="0" value="0.85804781967" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="oxycodone" target="acetaminophen">
+        <attvalues>
+          <attvalue for="0" value="0.827862130327" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="modafinil" target="armodafinil">
+        <attvalues>
+          <attvalue for="0" value="0.73339599548" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="modafinil" target="adrafinil">
+        <attvalues>
+          <attvalue for="0" value="0.84205035809" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="hydromorphone" target="hydrocodone">
+        <attvalues>
+          <attvalue for="0" value="0.750878816875" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="harmaline" target="mimosa">
+        <attvalues>
+          <attvalue for="0" value="0.783423513908" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="harmaline" target="dmt">
+        <attvalues>
+          <attvalue for="0" value="0.738200666128" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="harmaline" target="maoi">
+        <attvalues>
+          <attvalue for="0" value="0.884366264912" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="harmaline" target="ayahuasca">
+        <attvalues>
+          <attvalue for="0" value="0.830203940246" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="harmaline" target="chaliponga">
+        <attvalues>
+          <attvalue for="0" value="0.795087604356" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="chaliponga" target="mimosa">
+        <attvalues>
+          <attvalue for="0" value="0.817636380946" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="chaliponga" target="maoi">
+        <attvalues>
+          <attvalue for="0" value="0.750888744744" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="chaliponga" target="ayahuasca">
+        <attvalues>
+          <attvalue for="0" value="0.806525533589" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="anadenanthera" target="bufotenin">
+        <attvalues>
+          <attvalue for="0" value="0.804216156357" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="anadenanthera" target="dmt">
+        <attvalues>
+          <attvalue for="0" value="0.759333721152" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="calamus" target="thujone">
+        <attvalues>
+          <attvalue for="0" value="0.748780144029" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="niacin" target="GABA">
+        <attvalues>
+          <attvalue for="0" value="0.731424846275" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="diazepam" target="sound">
+        <attvalues>
+          <attvalue for="0" value="0.746896546353" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="4-mmc" target="mdpv">
+        <attvalues>
+          <attvalue for="0" value="0.768656467311" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="4-mmc" target="pentylone">
+        <attvalues>
+          <attvalue for="0" value="0.747303808728" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="diphenhydramine" target="dimenhydrinate">
+        <attvalues>
+          <attvalue for="0" value="0.783363431394" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="benzodiazepine" target="clonazepam">
+        <attvalues>
+          <attvalue for="0" value="0.722787445183" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="benzodiazepine" target="lorazepam">
+        <attvalues>
+          <attvalue for="0" value="0.741768723525" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="benzodiazepine" target="temazepam">
+        <attvalues>
+          <attvalue for="0" value="0.747786421564" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="meta-chlorophenylpiperazine" target="piperazine">
+        <attvalues>
+          <attvalue for="0" value="0.858500289446" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="caffeine" target="theobromine">
+        <attvalues>
+          <attvalue for="0" value="0.874199969675" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="caffeine" target="guarana">
+        <attvalues>
+          <attvalue for="0" value="0.768406747084" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="pramipexole" target="nefazodone">
+        <attvalues>
+          <attvalue for="0" value="0.782172430088" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="hyoscine" target="atropine">
+        <attvalues>
+          <attvalue for="0" value="0.999573014488" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="hyoscine" target="hyoscyamine">
+        <attvalues>
+          <attvalue for="0" value="0.999911355261" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="hyoscine" target="aconitum">
+        <attvalues>
+          <attvalue for="0" value="0.747114035844" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="alprazolam" target="clonazepam">
+        <attvalues>
+          <attvalue for="0" value="0.743817563325" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="salvia" target="sound">
+        <attvalues>
+          <attvalue for="0" value="0.731469845271" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="bufotenin" target="dmt">
+        <attvalues>
+          <attvalue for="0" value="0.745435878756" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="atenolol" target="hydroxyzine">
+        <attvalues>
+          <attvalue for="0" value="0.758224172656" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="acetaminophen" target="hydrocodone">
+        <attvalues>
+          <attvalue for="0" value="0.893141313391" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="atropine" target="hyoscyamine">
+        <attvalues>
+          <attvalue for="0" value="0.999545322758" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="atropine" target="aconitum">
+        <attvalues>
+          <attvalue for="0" value="0.748240292634" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="maoi" target="ayahuasca">
+        <attvalues>
+          <attvalue for="0" value="0.815102564308" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="maoi" target="mimosa">
+        <attvalues>
+          <attvalue for="0" value="0.751662436292" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="maoi" target="dmt">
+        <attvalues>
+          <attvalue for="0" value="0.754976154665" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="maoi" target="moclobemide">
+        <attvalues>
+          <attvalue for="0" value="0.729991299682" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="methylphenidate" target="dextroamphetamine">
+        <attvalues>
+          <attvalue for="0" value="0.766434361498" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="methamphetamine" target="amphetamine">
+        <attvalues>
+          <attvalue for="0" value="0.758482454304" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="skullcap" target="zacatechichi">
+        <attvalues>
+          <attvalue for="0" value="0.73160873785" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="dextroamphetamine" target="amphetamine">
+        <attvalues>
+          <attvalue for="0" value="0.72546359031" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="clonazepam" target="lorazepam">
+        <attvalues>
+          <attvalue for="0" value="0.813131831422" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="clonazepam" target="temazepam">
+        <attvalues>
+          <attvalue for="0" value="0.755069612737" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="thujone" target="ethanol">
+        <attvalues>
+          <attvalue for="0" value="0.77149615938" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="lorazepam" target="temazepam">
+        <attvalues>
+          <attvalue for="0" value="0.804351932231" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="pentylone" target="mdpv">
+        <attvalues>
+          <attvalue for="0" value="0.745858124127" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="mimosa" target="dmt">
+        <attvalues>
+          <attvalue for="0" value="0.782842952897" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="mimosa" target="ayahuasca">
+        <attvalues>
+          <attvalue for="0" value="0.781038740299" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="aniracetam" target="piracetam">
+        <attvalues>
+          <attvalue for="0" value="0.777564449045" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="amphetamine" target="sound">
+        <attvalues>
+          <attvalue for="0" value="0.727933407234" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="amphetamine" target="mdma">
+        <attvalues>
+          <attvalue for="0" value="0.761447166391" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="aconitum" target="hyoscyamine">
+        <attvalues>
+          <attvalue for="0" value="0.745548526574" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="sound" target="mdma">
+        <attvalues>
+          <attvalue for="0" value="0.753047652507" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="ayahuasca" target="dmt">
+        <attvalues>
+          <attvalue for="0" value="0.800580652747" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="bk-mdma" target="mdma">
+        <attvalues>
+          <attvalue for="0" value="0.752614311904" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="codeine" target="hydrocodone">
+        <attvalues>
+          <attvalue for="0" value="0.746466189335" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="guarana" target="theobromine">
+        <attvalues>
+          <attvalue for="0" value="0.749463361985" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="flunitrazepam" target="temazepam">
+        <attvalues>
+          <attvalue for="0" value="0.768798307716" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
